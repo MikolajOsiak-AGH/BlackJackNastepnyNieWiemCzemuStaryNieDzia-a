@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\Deck.h(32,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(190,41): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(195,44): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(199,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(217,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(226,37): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(230,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(234,37): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\BlackJackGame.h(238,37): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\BlackJack\main.cpp(14,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  BlackJack.vcxproj -> C:\Users\Admin\Desktop\BlackJackProjekt-goodversion-main\BlackJackProjekt-goodversion-main\BlackJack\x64\Debug\BlackJack.exe
