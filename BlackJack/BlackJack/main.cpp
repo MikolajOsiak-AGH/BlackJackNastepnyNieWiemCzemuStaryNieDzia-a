@@ -7,6 +7,7 @@
 #include "BlackJackGame.h"
 #include "Player.h"
 #include "statistics.h"
+#include "AIplayer.h"
 
 using namespace std;
 int main() {

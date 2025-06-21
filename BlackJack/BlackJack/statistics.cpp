@@ -2,6 +2,7 @@
 #include "Player.h"
 #include <vector>
 #include <string>
+#include <iostream>
 
 void saveStatsToCSV(const std::vector<Player*>& players, const std::string& filename) {
     std::ofstream file(filename);
