@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\BlackJackGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\BlackJackGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\BlackJackGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\BlackJackGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\BlackJackGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\AIplayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{72416646-422A-4A9F-9F7D-53D6BC935502}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\AIplayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -74,37 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Deck.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\Deck.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.cpp",
-              "RelativeToolTip": "BlackJack\\Deck.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-21T13:09:24.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Deck.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.h",
-              "RelativeDocumentMoniker": "BlackJack\\Deck.h",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.h",
-              "RelativeToolTip": "BlackJack\\Deck.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T15:08:03.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Hand.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Hand.h",
               "RelativeDocumentMoniker": "BlackJack\\Hand.h",
@@ -112,25 +86,23 @@
               "RelativeToolTip": "BlackJack\\Hand.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T15:08:51.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:08:51.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\main.cpp",
               "RelativeDocumentMoniker": "BlackJack\\main.cpp",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\main.cpp",
               "RelativeToolTip": "BlackJack\\main.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-18T15:00:26.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:00:26.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "statistics.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\statistics.cpp",
               "RelativeDocumentMoniker": "BlackJack\\statistics.cpp",
@@ -138,12 +110,11 @@
               "RelativeToolTip": "BlackJack\\statistics.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-18T16:24:49.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T16:24:49.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Dealer.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Dealer.h",
               "RelativeDocumentMoniker": "BlackJack\\Dealer.h",
@@ -151,12 +122,48 @@
               "RelativeToolTip": "BlackJack\\Dealer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T15:12:41.028Z",
+              "WhenOpened": "2025-06-18T15:12:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlackJackGame.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\BlackJackGame.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\BlackJackGame.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\BlackJackGame.cpp",
+              "RelativeToolTip": "BlackJack\\BlackJackGame.cpp",
+              "ViewState": "AgIAAPIAAAAAAAAAAADwvxABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T13:04:45.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Deck.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.h",
+              "RelativeDocumentMoniker": "BlackJack\\Deck.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.h",
+              "RelativeToolTip": "BlackJack\\Deck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T15:08:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deck.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\Deck.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Deck.cpp",
+              "RelativeToolTip": "BlackJack\\Deck.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T13:09:24.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Hand.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Hand.cpp",
               "RelativeDocumentMoniker": "BlackJack\\Hand.cpp",
@@ -164,12 +171,11 @@
               "RelativeToolTip": "BlackJack\\Hand.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-21T13:08:22.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:08:22.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Player.cpp",
               "RelativeDocumentMoniker": "BlackJack\\Player.cpp",
@@ -177,12 +183,11 @@
               "RelativeToolTip": "BlackJack\\Player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-21T13:07:22.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:07:22.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Player.h",
               "RelativeDocumentMoniker": "BlackJack\\Player.h",
@@ -190,12 +195,11 @@
               "RelativeToolTip": "BlackJack\\Player.h",
               "ViewState": "AgIAACYAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T15:09:54.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:09:54.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Card.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Card.h",
               "RelativeDocumentMoniker": "BlackJack\\Card.h",
@@ -203,12 +207,11 @@
               "RelativeToolTip": "BlackJack\\Card.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T15:07:30.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:07:30.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Card.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\Card.cpp",
               "RelativeDocumentMoniker": "BlackJack\\Card.cpp",
@@ -216,12 +219,11 @@
               "RelativeToolTip": "BlackJack\\Card.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-21T13:06:13.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:06:13.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "BlackJackGame.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\BlackJackGame.h",
               "RelativeDocumentMoniker": "BlackJack\\BlackJackGame.h",
@@ -229,12 +231,11 @@
               "RelativeToolTip": "BlackJack\\BlackJackGame.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T15:13:45.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:13:45.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "statistics.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\statistics.h",
               "RelativeDocumentMoniker": "BlackJack\\statistics.h",
@@ -242,21 +243,7 @@
               "RelativeToolTip": "BlackJack\\statistics.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T16:22:27.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BlackJackGame.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\BlackJackGame.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\BlackJackGame.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BlackJackProjekt-goodversion-main\\BlackJackProjekt-goodversion-main\\BlackJack\\BlackJack\\BlackJackGame.cpp",
-              "RelativeToolTip": "BlackJack\\BlackJackGame.cpp",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAqwAcBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-21T13:04:45.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T16:22:27.59Z"
             },
             {
               "$type": "Document",
@@ -268,8 +255,7 @@
               "RelativeToolTip": "BlackJack\\AIplayer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-18T15:11:17.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:11:17.733Z"
             },
             {
               "$type": "Document",
@@ -281,8 +267,7 @@
               "RelativeToolTip": "BlackJack\\AIplayer.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-21T13:01:42.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:01:42.818Z"
             }
           ]
         }

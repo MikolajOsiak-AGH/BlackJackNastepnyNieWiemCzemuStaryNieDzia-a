@@ -126,7 +126,12 @@ void BlackjackGame::playRound() {
     cout << "\nDealer's Hand:\n";
     dealer.getHand().showHand(true);
 
-    if (dealer.getHand().getTotal() == 11) {
+    // FIX: insurance based on dealer's visible card (second card shown)
+    std::string rank = dealer.getHand().getCards()[1].getRank();
+    rank.erase(remove_if(rank.begin(), rank.end(), ::isspace), rank.end());
+    std::transform(rank.begin(), rank.end(), rank.begin(), ::toupper);
+
+    if (rank == "A") {
         for (auto player : players) {
             if (!player->isAI()) {
                 cout << player->getName() << ", want insurance? (y/n): ";
@@ -176,7 +181,7 @@ void BlackjackGame::playRound() {
                     break;
                 }
 
-                int opt = player->getMove(player->getHands()[i], dealer.getHand().getCards()[0]);
+                int opt = player->getMove(player->getHands()[i], dealer.getHand().getCards()[1]);
 
                 if (opt == 1) {
                     player->addCard(i, deck.dealCard());
@@ -187,6 +192,10 @@ void BlackjackGame::playRound() {
                 }
                 else if (opt == 3 && firstMove) {
                     player->doubleDown(i, deck.dealCard());
+                    cout << "You chose to Double Down!\n";
+                    cout << "Your updated hand:\n";
+                    player->getHands()[i].showHand();
+                    std::this_thread::sleep_for(std::chrono::seconds(3));
                     break;
                 }
                 else if (opt == 4 && firstMove) {
